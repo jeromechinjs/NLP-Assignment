@@ -2,15 +2,12 @@
 
 **Resources**
 *   https://www.geeksforgeeks.org/what-is-sentiment-analysis/ (intro)
-*   https://www.nltk.org/api/nltk.tokenize.html (tokenize - separate sentence into words)
-*   https://youtu.be/9p1KYtYAus8 (vader lexicon tutorial - for sentiment analysis)
-*   dataset (#56 from https://www.nltk.org/nltk_data/)
+*   tutorial (https://www.datacamp.com/tutorial/text-analytics-beginners-nltk)
+*   https://youtu.be/9p1KYtYAus8 & https://youtu.be/QpzMWQvxXWk?feature=shared (vader lexicon tutorial - for sentiment analysis)
 *   dataset downloaded from https://www.kaggle.com/datasets/mdwaquarazam/headphone-dataset-review-analysis
 
-<br>
+<br><br>
 
-
-<br>
 Documents (bg study, methods etc will do later)
 
 > Step 1: Get data (csv file)
