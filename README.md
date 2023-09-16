@@ -10,17 +10,12 @@
 
 Documents (bg study, methods etc will do later)
 
-> Step 1: Get data (csv file)
+* Step 1: Get data (csv file)
 
-> Step 2: Pre-processing. Tokenize, Lemmatize, remove stopwords, punctuations etc, then do sentiment analysis
+* Step 2: Pre-processing. Tokenize, Lemmatize, remove stopwords, punctuations etc, then do sentiment analysis
 
-> Step 3: Count vectorizer (frequency each words appeared), then identify similarity (use cosine similarity equation, correlation etc.)
+* Step 3: Count vectorizer (frequency each words appeared), then identify similarity (use cosine similarity equation, correlation etc.)
 
-> Step 4: each of us will choose our preferred method (bayes, knn, k-means)
+* Step 4: each of us will choose our preferred method (bayes, knn, k-means)
 
-> Step 5: compare the results (from using different methods)
-
-
-
-
-
+* Step 5: compare the results (from using different methods)
