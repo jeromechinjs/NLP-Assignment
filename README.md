@@ -1,21 +1,25 @@
 # NLP: Product Comment Sentiment Analysis
 
-**Resources**
-*   https://www.geeksforgeeks.org/what-is-sentiment-analysis/ (intro)
-*   tutorial (https://www.datacamp.com/tutorial/text-analytics-beginners-nltk)
-*   https://youtu.be/9p1KYtYAus8 & https://youtu.be/QpzMWQvxXWk?feature=shared (vader lexicon tutorial - for sentiment analysis)
-*   dataset downloaded from https://www.kaggle.com/datasets/mdwaquarazam/headphone-dataset-review-analysis
+### Resources
+*   Introduction: https://www.geeksforgeeks.org/what-is-sentiment-analysis/ 
+*   Dataset downloaded from https://www.kaggle.com/datasets/mdwaquarazam/headphone-dataset-review-analysis
+*   Tutorial Guides 
+    >  https://www.datacamp.com/tutorial/text-analytics-beginners-nltk
 
-<br><br>
+    >  https://towardsdatascience.com/text-classification-using-k-nearest-neighbors-46fa8a77acc5
 
-Documents (bg study, methods etc will do later)
+    >  https://medium.com/@bedigunjit/simple-guide-to-text-classification-nlp-using-svm-and-naive-bayes-with-python-421db3a72d34
+
+    > https://medium.com/@ashins1997/text-classification-456513e18893
+
+<br>
 
 * Step 1: Get data (csv file)
 
-* Step 2: Pre-processing. Tokenize, Lemmatize, remove stopwords, punctuations etc, then do sentiment analysis
+* Step 2: Pre-processing. Tokenize, Lemmatize, remove stopwords, punctuations etc ...
 
-* Step 3: Count vectorizer (frequency each words appeared), then identify similarity (use cosine similarity equation, correlation etc.)
+* Step 3: Sentiment Analysis. Build the model.
 
-* Step 4: each of us will choose our preferred method (bayes, knn, k-means)
+* Step 4: Use methods (Naive Bayes, KNN, SVM, Logistic Regression) to analysze accuracy of the sentiment analysis results
 
-* Step 5: compare the results (from using different methods)
+* Step 5: Prompt user input, feed input into model and generate response.
